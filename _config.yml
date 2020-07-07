@@ -19,15 +19,12 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/andrewbanchich
+facebook_url:  https://www.facebook.com/amit.reddy.353/
+github_url:  https://github.com/aa-reddy 
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+instagram_url: https://www.instagram.com/amit__reddy_/
+linkedin_url: https://www.linkedin.com/in/amit-reddy-b092a6173/
+
 
 # build settings
 markdown: kramdown
