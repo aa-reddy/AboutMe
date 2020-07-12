@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Amit'
 description: null
-image: C:\Users\Amitttt\Desktop\Amit Photo.jpeg
+image: assets\Images\Amit.jpeg
 author: null
 show_tile: false
 ---
