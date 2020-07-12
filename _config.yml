@@ -1,6 +1,6 @@
 # site settings
-title: Welcome
-subtitle: by Amit
+title: About Me
+subtitle: 
 email: aareddy@umass.edu
 description: I am a Computer Science Major<br /> at the University of Massachusetts Amherst.
 baseurl: "/AboutMe/" # the subpath of your site, e.g. /blog
