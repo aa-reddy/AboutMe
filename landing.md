@@ -2,7 +2,7 @@
 title: Resume
 layout: landing
 description: 'Please download my Resume from here'
-image: assets/images/pic11.jpg
+image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
