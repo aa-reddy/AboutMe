@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Amit'
+landing-title: 'Hi, my name is Amit.'
 description: null
-image: assets\Images\Amit.jpeg
+image: assets\images\Amit.jpeg
 author: null
 show_tile: false
 ---
