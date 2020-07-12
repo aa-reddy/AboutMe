@@ -2,7 +2,7 @@
 layout: post
 title: Generic
 description: 
-image: assets/images/pic27.jpg
+image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
