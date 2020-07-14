@@ -15,7 +15,7 @@ nav-menu: true
 			<h1>Amit Amar Reddy</h1>
 		</header>
 
-I'm currently majoring in Computer Science with a minor in Mathematics at the University of Massachusetts Amherst.
+I'm currently majoring in Computer Science at the University of Massachusetts Amherst. I was born and brought up in India and I completed my hig school in India too. 
 
 </div>
 </section>
