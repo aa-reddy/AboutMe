@@ -27,3 +27,10 @@ I'm currently majoring in Computer Science at the University of Massachusetts Am
 </section>
 
 </div>
+
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic11.jpg %}" alt="" data-position="center center" />
+		</a>
