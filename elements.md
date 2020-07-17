@@ -4,6 +4,19 @@ title: About Me
 image: assets/images/pic27.jpg
 nav-menu: true
 ---
+<style>
+	img {
+			float: right;
+  			border-radius: 20%;
+  			margin-right: 40px;
+  			margin-left: 40px;
+  			display: inline;
+  			width: 500px;
+		}	
+	
+</style>
+<p><span ><img src="images/pic11.jpg" alt="" ></span>
+
 
 <!-- Main -->
 <div id="main" class="alt">
