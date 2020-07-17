@@ -16,10 +16,7 @@ nav-menu: true
 		<header class="major">
 			<h1>Amit Amar Reddy</h1>
 		</header>
-<style>
-	
-	
-</style>
+
 <p><span ><img src="images/pic11.jpg" alt="" ></span>		
 		
 
